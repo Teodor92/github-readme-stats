@@ -407,7 +407,7 @@ Endpoint: `api/gist?id=bbfce31e0217a3689c8d961a356cb10d`
 
 ### Demo
 
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+![Gist Card](https://github-readme-stats-iota-eight-77.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
 
 Use [show\_owner](#gist-card-exclusive-options) query option to include the gist's owner username
 
