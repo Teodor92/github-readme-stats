@@ -768,4 +768,6 @@ Thanks! :heart:
 
 Contributions are welcome! <3
 
+Trigger deploy!
+
 Made with :heart: and JavaScript.
